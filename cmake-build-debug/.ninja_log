@@ -1,0 +1,18 @@
+# ninja log v6
+1200	1366	7390824400783701	Snake.exe	5c6dd159f32d62c
+2	256	7391593455228670	build.ninja	f2abb545696e0390
+107	638	7390518287437837	CMakeFiles/Snake.dir/MoveSet.cpp.obj	d44f9f1dcb9e9033
+26	456	7390809281252407	CMakeFiles/Snake.dir/Game.cpp.obj	606d1f7278edf015
+101	618	7390776964546807	CMakeFiles/Snake.dir/Point.cpp.obj	9358bfebe7dfb2f1
+55	625	7390809281545558	CMakeFiles/Snake.dir/Snake.cpp.obj	b7ea039d1869fdfe
+26	678	7390812509451340	CMakeFiles/Snake.dir/Display.cpp.obj	1b4d81c5befb9cc2
+4	1200	7390824388821939	CMakeFiles/Snake.dir/main.cpp.obj	d5016b66935eb75d
+31	685	7390824389091749	CMakeFiles/Snake.dir/Astar/AstarSearch.cpp.obj	17486daf2ac59090
+50	501	7391593499058318	CMakeFiles/Snake.dir/Game.cpp.obj	606d1f7278edf015
+79	680	7391593499351130	CMakeFiles/Snake.dir/Snake.cpp.obj	b7ea039d1869fdfe
+152	804	7391593500083876	CMakeFiles/Snake.dir/Point.cpp.obj	9358bfebe7dfb2f1
+188	873	7391593500447103	CMakeFiles/Snake.dir/MoveSet.cpp.obj	d44f9f1dcb9e9033
+243	986	7391593500989904	CMakeFiles/Snake.dir/Astar/AstarSearch.cpp.obj	17486daf2ac59090
+103	1075	7391593499592149	CMakeFiles/Snake.dir/Display.cpp.obj	1b4d81c5befb9cc2
+6	1400	7391593498622660	CMakeFiles/Snake.dir/main.cpp.obj	d5016b66935eb75d
+1401	1586	7391593512572007	Snake.exe	5c6dd159f32d62c
